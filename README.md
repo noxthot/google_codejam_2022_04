@@ -6,7 +6,7 @@ This repository contains my solutions for the 2022 edition of google's coding co
 
 https://codingcompetitions.withgoogle.com/codejam/archive/2022
 
-Since I actively participated in the contest (time pressure!), the codes are not polished and most likely also contain errors.
+Since I actively participated in the contest (time pressure!) but not always spent the full time slot on the challenges, the codes are not polished and most likely also contain errors.
 
 # Results
 ## Qualification Round
@@ -34,4 +34,14 @@ Solved for 2 out of 3 test sets.
 Failed for all test sets.
 
 ### ASeDatAb 
+No try.
+## Round 1C
+
+### Letter Blocks
+Failed for all test sets.
+
+### Squary
+No try.
+
+### Intranets 
 No try.
